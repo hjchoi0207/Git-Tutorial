@@ -17,7 +17,7 @@ git version 2.23.0.windows.5
 ### 3. 이후 컴퓨터에서 작업 할 경로로 이동한 뒤 clone 수행
 
 ```
->clone [내 저장소주소]
+>git clone [내 저장소주소]
 ```
 
 
